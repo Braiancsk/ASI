@@ -35,6 +35,7 @@ html,body{
 
 .menu-mobile ul{
     margin-top: 30px;
+    padding: 0;
 }
 
 .menu-mobile ul li{
